@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odunsii
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me; @theoduntwits on twitter & you can send a mail to @odunayo718@gmail.com
 
 <!---
