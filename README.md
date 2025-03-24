@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odunayo718
+- 👋 Hi, I’m Odunayo Davies Idowu
 - 👀 I’m interested in Cloud Engineering
 - 🌱 I’m currently learning using https://learntocloud.guide
 - 📫 How to reach me; @theoduntwits on twitter & you can send a mail to @odunayo718@gmail.com
