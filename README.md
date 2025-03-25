@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Odunayo Davies Idowu
 - 👀 I’m interested in Cloud Engineering
 - 🌱 I’m currently learning using https://learntocloud.guide
-- 📫 How to reach me; @theoduntwits on twitter & you can send a mail to @odunayo718@gmail.com
+- 📫 How to reach me; https://x.com/theoduntwits & you can send a mail to @odunayo718@gmail.com
 
 <!---
 odunsii/odunsii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
